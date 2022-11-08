@@ -87,6 +87,10 @@ label span {
   line-height: 20px;
   color: #c1bccc;
 }
+label span:hover {
+  color: #484350;
+}
+
 .input-box {
   width: 100%;
 }
